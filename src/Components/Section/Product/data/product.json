@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "desc": "Casquette",
+        "marque": "New Era",
+        "price": 50, 
+        "img": "https://www.headict.com/img/products2/product/ERA05666_1,new-era,casquette-ny-pliable-noir.jpg"        
+    },
+
+    {
+        "id": 2,
+        "desc": "Micron",
+        "marque": "Pigma",
+        "price": 10, 
+        "img": "https://www.variationscreatives.fr/91731-large_default/boite-de-6-stylos-feutres-pigma-micron-noir.jpg"        
+    },
+
+    {
+        "id": 3,
+        "desc": "Cristal Multi Colour",
+        "marque": "Bic",
+        "price": 5, 
+        "img": "https://fr.bic.com/media/catalog/product/cache/76e1d882d7460ad7d6c317f717aa4fcd/9/6/964899_3086123538870_01_1.jpg"        
+    },
+
+    {
+        "id": 4,
+        "desc": "Polo blanc",
+        "marque": "Lascote",
+        "price": 70, 
+        "img": "https://photos6.spartoo.com/photos/160/16026889/16026889_500_A.jpg"        
+    },
+
+    {
+        "id": 5,
+        "desc": "Polo NOIR",
+        "marque": "Lascote",
+        "price": 70, 
+        "img": "https://medias-cache.placedestendances.com/fr/lacoste-polo-slim-fit-en-pique-de-coton-noir/image/70/0/989700.jpg?func=fit&bg_color=white&w=533&h=730"        
+    },
+
+    {
+        "id": 6,
+        "desc": "Air max 97",
+        "marque": "Nike",
+        "price": 180, 
+        "img": "https://golf-land.fr/10552-large_default/chaussure-nike-air-max-97-g-gris.jpg"        
+    },
+
+
+
+
+    {
+        "id": 7,
+        "desc": "Air max 97",
+        "marque": "Nike",
+        "price": 180, 
+        "img": "https://golf-land.fr/10552-large_default/chaussure-nike-air-max-97-g-gris.jpg"        
+    },
+    {
+        "id": 8,
+        "desc": "Polo NOIR",
+        "marque": "Lascote",
+        "price": 70, 
+        "img": "https://medias-cache.placedestendances.com/fr/lacoste-polo-slim-fit-en-pique-de-coton-noir/image/70/0/989700.jpg?func=fit&bg_color=white&w=533&h=730"        
+    },
+    {
+        "id": 9,
+        "desc": "Polo blanc",
+        "marque": "Lascote",
+        "price": 70, 
+        "img": "https://photos6.spartoo.com/photos/160/16026889/16026889_500_A.jpg"        
+    },
+    {
+        "id": 10,
+        "desc": "Cristal Multi Colour",
+        "marque": "Bic",
+        "price": 5, 
+        "img": "https://fr.bic.com/media/catalog/product/cache/76e1d882d7460ad7d6c317f717aa4fcd/9/6/964899_3086123538870_01_1.jpg"        
+    },
+    {
+        "id": 11,
+        "desc": "Micron",
+        "marque": "Pigma",
+        "price": 10, 
+        "img": "https://www.variationscreatives.fr/91731-large_default/boite-de-6-stylos-feutres-pigma-micron-noir.jpg"        
+    },
+    {
+        "id": 12,
+        "desc": "Casquette",
+        "marque": "New Era",
+        "price": 50, 
+        "img": "https://www.headict.com/img/products2/product/ERA05666_1,new-era,casquette-ny-pliable-noir.jpg"        
+    }
+]
