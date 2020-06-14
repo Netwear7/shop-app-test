@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import Section from './Components/Section/Section';
 import './App.css';
 
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header p-3">
         <p className="Bold">Shop app test</p>
-        <button className="btn btn-white ml-auto " >Panier</button>
+        {/* <button className="">Panier</button> */}
       </header>
       <Section />
     </div>
