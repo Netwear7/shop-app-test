@@ -7,6 +7,7 @@ import './Section.css';
 class Section extends Component{
     constructor(){
         super();
+        this.dropdownToggle = React.createRef();
         this.state = {
             products: data,
             cart: [],
@@ -119,13 +120,26 @@ class Section extends Component{
         })
     }
 
+    // this.dropdownToggle.on()
+    // $('#myDD').on('hide.bs.dropdown', function (e) {
+    //     if (e.clickEvent) {
+    //       e.preventDefault();
+    //     }
+    // });
 
     
     render(){
+        // this.dropdownToggle.current.on('hide.bs.dropdown', function (e) {
+        //     if (e.clickEvent) {
+        //       e.preventDefault();
+        //     }
+        // });
+
+
         return (
             <div className="container-fluid bg-light">
                 <div className="row justify-content-end sticky-top">
-                    <div className="dropdown ml-auto w-100 sticky-top">
+                    <div className="dropdown ml-auto w-100 sticky-top" ref={this.dropdownToggle}>
                         
                         <button 
                             className="btn btn-light dropdown-toggle btn-cart position-button-cart sticky-top w-100" 
